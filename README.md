@@ -22,7 +22,8 @@ O sistema permite o controle de usuários, livros e empréstimos, simulando o fu
 ## 🛠️ Tecnologias utilizadas
 
 - Python
-- SQLite / PostgreSQL
+- PostgreSQL
+- psycopg2
 - Programação Orientada a Objetos (POO)
 - Arquitetura MVC
 
